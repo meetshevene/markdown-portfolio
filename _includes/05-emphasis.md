@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Marketing__: *A thing no one knows how to do*
+__Programming__: *A thing many people pretend to know how to do*
+__Nothing__: *Something we can all do*
